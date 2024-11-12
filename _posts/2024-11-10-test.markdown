@@ -17,8 +17,11 @@ Here is a paragraph.
   * List
   * Items
 
+<br>
+
 **Bold text**
-__Underlined text__
+
+<br>
 
 Example image:
 
