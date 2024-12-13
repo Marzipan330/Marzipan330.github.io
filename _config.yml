@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/GNPCC_Overview_Edited_1_1920.jpg"
-logo: "/assets/nwc_400.png"
+logo: "/assets/nwc_500.png"
 
 # Build settings
 markdown: kramdown
