@@ -9,19 +9,19 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: MIKIA
-subtitle: "My Indigenous Knowledge In Action"
-email: mikiakenya@outlook.com
-name: MIKIA
+title: Northern Woods Construction Inc.
+subtitle: "Experts in concrete forming construction"
+email: someone@somewhere.com
+name: 
 description: >
-  Put Traditional Indigenous Knowledge into action for co-existence with nature, conservation of biodiversity, cultural preservation, and regeneration across generations.
+  Concrete experts with 40 years of experience in water and wastewater projects.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/women.jpg"
-logo: "/assets/mikia-red-500.png"
+cover: "/assets/GNPCC_Overview_Edited_1_1920.jpg"
+logo: "/assets/nwc_400.png"
 
 # Build settings
 markdown: kramdown
