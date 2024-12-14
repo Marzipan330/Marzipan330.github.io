@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/nwc_400.png "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/nwc_500.png "Profile Picture"){:.profile}
 
 ### About Northern Woods Construction
 Nothing to see here yet.
